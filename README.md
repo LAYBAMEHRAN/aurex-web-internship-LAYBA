@@ -1,4 +1,4 @@
-# aurex-web-internship--LAYBA-
+# aurex-web-internship-LAYBA
 <b>NAME:</b> LAYBA MEHRAN <br>
 <b>DOMAIN:</b>FULL-STACK DEVELOPMENT<br>
 <b > WEEK NO;</b> 1<br>
