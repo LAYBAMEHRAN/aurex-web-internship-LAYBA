@@ -1,17 +1,18 @@
 # aurex-web-internship-LAYBA
 <b>NAME:</b> LAYBA MEHRAN <br>
 <b>DOMAIN:</b>FULL-STACK DEVELOPMENT<br>
-<b > WEEK NO;</b> 1<br>
+<b > WEEK NO;</b> 2<br>
 <h3>task description</h3><br>
 <ul>
-<li>creation of professional github profile  & create repositry</li>
-<li>intialize the project in vs code and git and push it on git hub using cammands in terminal</li>
-<li>create an index.html file containing personal information of intrnee</li>
-</ul><br>
-<b>technology used:</b><br> html,git,github<br>
+<li>using css make the personal profile attractive</li>
+<li>style the header using element selector</li>
+<li>style nav bar by using flex box,add border,padding,margin and border radius so that nav bars look more attractive</li>
+<li>add a background color ,text color,border color</li>
+<li>in main  style the sections like about ,education,experience using color background color and also manage padding ,margin etc...</li>
+<li>make the web page reponsive using media query...so that it looks presentable and content will adjust itself according to device's width where the browser opens</ul><br>
+<b>technology used:</b><br> html,css,git,github<br>
 <h3>how to run project locally</h3><br>
 connect git with vs code and write code inside the files in vs code and then pudh these changrs files on github using cammands <br>
 <h3>key learnings and difficulties</h3><br>
-i could not place my repositry`s name in correct format and 
-as a beeginner it was a bit hard for me to learn the cammands in sequence but later on i become fimiliar to them   with the progress and i complete my 1st week of internship and my creativity and confidenced boasts to next level<br>
-<b>status:</b> <br>week 1 has been successfully completed......
+l<br>
+<b>status:</b> <br>week 2 has been successfully completed......

@@ -4,21 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> My Developer Profile</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-    <h2>LAYBA MEHRAN</h2>
-    <p>TITLE: WEB DEVELOPER</br>
-    INTRIODUCTION:<br> I am a passionate web developer with a strong interest in creating dynamic and user-friendly websites. I have experience in HTML, CSS, JavaScript, and various web development frameworks. My goal is to continuously improve my skills and contribute to innovative web projects.
+    <h1 >HI, I AM LAYBA MEHRAN</h1>
+    <p> WEB DEVELOPER</p>
+    <p>wellcome to my personal developer portfolio
 </p>
     </header>
 
     <nav>
         
-            <a  href="#about">About Me</a>&nbsp;
-            <a href="#skills">Skills</a>&nbsp;
-            <a href="#Education">Education</a>&nbsp;
-            <a href="#Experience">Experience</a>&nbsp;
+            <a  href="#about">About Me</a>
+            <a href="#skills">Skills</a>
+            <a href="#Education">Education</a>
+            <a href="#Experience">Experience</a>
             <a href="#Contact Form">Contact Form</a>
         
         </nav>
@@ -53,19 +54,25 @@
             </p>
             </section>
 
-            <section id="Contact Form">
-                <h2>Contact Form</h2>
+            <section id="Contact">
+                <h2 id="form-name">Contact Form</h2>
 
-        <form id=""contact-form" action="submit_form.php" method="post">
-Name:
- <input type="text" name="name" required><br><br>
- Email:
- <input type="email" name="email" required><br><br>
- Message:
- <textarea name="message" rows="5" cols="40" required></textarea><br><br>
- <input type="submit" value="Submit">
+        <form action="submit_form.php" method="post">
+            <div>
+                <label for="name">NAME:</label>
+
+ <input type="text" name="name" required></div><br>
+
+
+ <div> <label for="email">EMAIL:</label>
+<input type="text"name="email" required></div><br>
+<div>
+    <label for="message">MESSAGE:</label><br>
+
+ <textarea name="message" rows="5" cols="10" required></textarea></div><br>
+ <button type="submit" >Send Message</button>
  
- <
+ 
         </form>
         </section>
         </main>
