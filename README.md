@@ -13,6 +13,8 @@
 <b>technology used:</b><br> html,css,git,github<br>
 <h3>how to run project locally</h3><br>
 connect git with vs code and write code inside the files in vs code and then pudh these changrs files on github using cammands <br>
+<p> https://laybamehran.github.io/aurex-web-internship-LAYBA/
+Last deployed by @LAYBAMEHRAN LAYBAMEHRAN 1 minute ago</p>
 <h3>key learnings and difficulties</h3><br>
 l<br>
 <b>status:</b> <br>week 2 has been successfully completed......
