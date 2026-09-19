@@ -174,81 +174,6 @@ section h2 {
 #Experience b {
     color: #0284c7;
 }
-/* =========================
-   PROJECTS GRID
-========================= */
-
-.project-grid {
-    /* display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 25px;
-    margin-top: 30px; */
-    
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-areas:
-        "one two"
-        "three three";
-    gap: 25px;
-    margin-top: 30px;
-}
-
-
-.project-card {
-    padding: 25px;
-    background: #ffffff;
-    border: 1px solid #dbeafe;
-    border-radius: 18px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    animation: cardAppear 0.8s ease forwards;
-}
- @keyframes cardAppear {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    } 
-}
-.project-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
-
-}
-
-.project-card h3 {
-    margin-top: 0;
-    color: #0369a1;
-}
-
-.project-card p {
-    color: #475569;
-}
-
-.project-card span {
-    display: inline-block;
-    padding: 6px 12px;
-    background: #e0f2fe;
-    color: #0369a1;
-    border-radius: 20px;
-    font-size: 14px;
-    font-weight: bold;
-}
-.project-one {
-    grid-area: one;
-}
-
-.project-two {
-    grid-area: two;
-}
-
-.project-three {
-    grid-area: three;
-}
 
 
 /* =========================
@@ -307,7 +232,7 @@ textarea:focus {
 textarea {
     min-height: 140px;
     resize: vertical;
-}
+} 
  
 
 /* =========================
